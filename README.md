@@ -1,1 +1,1 @@
-Melvision: A convenient deep learning and image processing library.
+# Melvision: A Convenient Deep Learning & Image Processing Toolkit
