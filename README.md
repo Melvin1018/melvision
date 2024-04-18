@@ -1,6 +1,3 @@
 <div align="center">
-  
-# Melvision: A Convenient Deep Learning & Image Processing Toolkit
-
+  <h1>Melvision: A Convenient Deep Learning & Image Processing Toolkit</h1>
 </div>
-
