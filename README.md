@@ -1,1 +1,6 @@
-# <center> Melvision: A Convenient Deep Learning & Image Processing Toolkit </center>
+<div align="center">
+
+# Melvision: A Convenient Deep Learning & Image Processing Toolkit
+
+</div>
+
